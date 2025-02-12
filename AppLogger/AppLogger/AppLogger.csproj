@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <Description>AppLogger Library for NET.Standard.</Description>
+    <PackageTags>NET, Standard, Lib</PackageTags>
+  </PropertyGroup>
+
+</Project>
